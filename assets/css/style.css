@@ -1,0 +1,21 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box
+}
+
+body{
+	background-color: #000;
+	color: #17d4fe;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.digitalclock{
+	font-size: 68px;
+	text-shadow: 10px 10px 20px #17d4fe;
+	font-family: "Lato", sans-serif;
+	
+}
